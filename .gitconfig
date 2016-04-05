@@ -1,0 +1,7 @@
+[user]
+	name = Jane Doe
+	email = janedoe@example.com
+[core]
+	editor = vim
+[alias]
+	graph = log --graph --oneline
